@@ -1,6 +1,6 @@
 # gatsby-plugin-quantcast-tag
 
-Gatsby plugin to add a Quantcast[quantcast] tracking tag onto a site.
+Gatsby plugin to add a [Quantcast][quantcast] tracking tag onto a site.
 
 ## Install
 
