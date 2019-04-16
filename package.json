@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-quantcast-tag",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gatsby plugin to add a Quantcast tracking tag onto a site",
   "scripts": {
     "prepublish": "npm run build",
